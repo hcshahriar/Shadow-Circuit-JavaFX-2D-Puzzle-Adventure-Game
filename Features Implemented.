@@ -1,0 +1,10 @@
+ Features Implemented :
+
+ : Main menu with start and exit options
+ : Level system with increasing difficulty
+ : Player movement with arrow keys
+ : Puzzle terminals that require solving to progress
+ : Moving security bots that patrol areas
+ : Score tracking and lives system
+ : Sound effects for key actions
+ : Clean, modular architecture for easy expansion
